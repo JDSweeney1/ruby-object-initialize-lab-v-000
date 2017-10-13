@@ -3,5 +3,4 @@ class Dpg
     @name = name
     @breed = breed
   end
-
-  
+end
